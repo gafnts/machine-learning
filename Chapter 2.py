@@ -1,3 +1,4 @@
+# %%
 from sklearn import datasets
 from sklearn.datasets import make_regression
 from sklearn.datasets import make_classification
